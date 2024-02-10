@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         System.out.println( work(20));
-        System.out.println("First project in github");
+        System.out.println("First project in git hub");
     }
     public static char findKthBit(int n, int k) {
         return work(n).charAt(k-1);
